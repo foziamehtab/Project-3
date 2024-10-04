@@ -1,4 +1,4 @@
-# Project-1
+# Project Summary-
 HR Analytics:
 The present exploratory data analysis was performed  with the objectives of identifying the key matrics indicators regarding Attrition Rate of
 the organisation and checking the important trends and patterns to find the significance of diffrent factors which contribute in increasing the attrition rate. 
